@@ -1,0 +1,12 @@
+name: proj
+title: proj
+username:
+account: jdcoyne
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3349119
+bundleId: 3940739
+url: https://jdcoyne.shinyapps.io/proj/
+when: 1607041998.46415
+asMultiple: FALSE
+asStatic: FALSE
